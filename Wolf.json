@@ -1,1 +1,19 @@
-
+[
+    {
+        "device_Limit": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_Limit": "2",
+        "key": "112233445",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    },
+  {
+        "device_Limit": "2",
+        "key": "112233445",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+  }
